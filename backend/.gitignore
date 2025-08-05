@@ -1,5 +1,0 @@
-# Virtual environment
-backend/api/venv/
-
-# Python cache and build files
-__pycache__/
