@@ -8,8 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Tiptap Autocomplete",
-  description: "Text-based autocomplete with Tiptap and FastAPI",
-    generator: 'v0.dev'
+  description: "Text-based autocomplete with Tiptap and FastAPI"
 }
 
 export default function RootLayout({
